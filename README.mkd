@@ -1,0 +1,5 @@
+# TDD para meros mortais
+
+"Palestra" ministrada por mim no Ideais Cowabunga promovido às Terças de quinze em quinze dias na sede da Ideais Tecnologia (http://www.ideais.com.br) no dia 20 de agosto de 2013.
+
+Um bate-papo de um desenvolvedor "de carne-e-osso", "mero mortal" e que não é nenhum consagrado autor de blogs, revistas e livros; e que poderia estar aí sentado na cadeira do auditório tanto quanto qualquer um.
